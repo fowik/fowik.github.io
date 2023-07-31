@@ -1,0 +1,42 @@
+[
+    {
+        "question": "In which Italian city can you find the Colosseum?",
+        "choice1": "Venice",
+        "choice2": "Rome",
+        "choice3": "Naples",
+        "choice4": "Naples",
+        "answer": 2
+    },
+    {
+        "question": "In the TV show New Girl, which actress plays Jessica Day?",
+        "choice1": "Zooey Deschanel",
+        "choice2": "Kaley Cuoco",
+        "choice3": "Jennifer Aniston",
+        "choice4": "Alyson Hannigan",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest canyon in the world?",
+        "choice1": "Verdon Gorge, France",
+        "choice2": "King’s Canyon, Australia",
+        "choice3": "Grand Canyon, USA",
+        "choice4": "Fjaðrárgljúfur Canyon, Iceland",
+        "answer": 3
+    },
+    {
+        "question": "How long is the border between the United States and Canada?",
+        "choice1": "3,525 miles",
+        "choice2": "4,525 miles",
+        "choice3": "5,525 miles",
+        "choice4": "6,525 miles",
+        "answer": 3
+    },
+    {
+        "question": "When was the book “To Kill a Mockingbird” by Harper Lee published?",
+        "choice1": "1950",
+        "choice2": "1960",
+        "choice3": "1970",
+        "choice4": "1980",
+        "answer": 2
+    }
+]
